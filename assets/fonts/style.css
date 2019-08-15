@@ -1,0 +1,12 @@
+@font-face {
+   font-family: 'SFUIText-Regular';
+   src: url('SFUIText-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'SFUIText-Light';
+   src: url('SFUIText-Light/font.ttf');
+}
+@font-face {
+   font-family: 'SFUIText-Bold';
+   src: url('SFUIText-Bold/font.ttf');
+}
