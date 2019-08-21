@@ -1407,6 +1407,30 @@ body {
   background: #00d1ff !important;
   box-shadow: none !important;
 }
+.cid-rzOMVFLDoK {
+  background-image: url("../../../assets/images/camera-coffee-composition-1509428-2000x1306.jpg");
+}
+.cid-rzOMVFLDoK .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-rzOMVFLDoK .media-container-column {
+  background-color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-rzOMVFLDoK .media-container-column {
+    padding: 1rem !important;
+  }
+}
+.cid-rzOMVFLDoK H1 {
+  color: #0f7699;
+}
+.cid-rzOMVFLDoK .mbr-text,
+.cid-rzOMVFLDoK .mbr-section-btn {
+  color: #232323;
+}
+.cid-rzOMVFLDoK H3 {
+  color: #232323;
+}
 .cid-rzfej27d9m .navbar {
   background: #ffffff;
   transition: none;
@@ -1813,30 +1837,6 @@ body {
 .cid-rzfej27d9m .nav-link:hover,
 .cid-rzfej27d9m .dropdown-item:hover {
   color: #ffffff !important;
-}
-.cid-rzNSRfdebf {
-  background-image: url("../../../assets/images/camera-coffee-composition-1509428-2000x1306.jpg");
-}
-.cid-rzNSRfdebf .mbr-section-subtitle {
-  letter-spacing: .2rem;
-}
-.cid-rzNSRfdebf .media-container-column {
-  background-color: #ffffff;
-}
-@media (max-width: 767px) {
-  .cid-rzNSRfdebf .media-container-column {
-    padding: 1rem !important;
-  }
-}
-.cid-rzNSRfdebf H1 {
-  color: #0f7699;
-}
-.cid-rzNSRfdebf .mbr-text,
-.cid-rzNSRfdebf .mbr-section-btn {
-  color: #232323;
-}
-.cid-rzNSRfdebf H3 {
-  color: #232323;
 }
 .cid-rzfej5OrQR {
   padding-top: 45px;
